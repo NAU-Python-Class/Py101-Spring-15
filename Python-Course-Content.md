@@ -11,14 +11,18 @@
       - What can I do with Python?
       
 ## Week 2 (2th && 6th Feb)
+  - Python Syntax
+      - Variables
+      - Booleans
+      - Whitespace and Indentation
+      - Comments
+      - Math
   - Python Built-in Data Types Introduction
       - Numeric Types 
       - String Fundamentals
-  - Comparison
-  - If-Elif-Else Control Statements
 
 ## Week 3 (9th && 13th Feb)
-  - Control Statements(Renew)
+  - Control Statements
       - Comparison
       - If-Elif-Else 
       - Iteration using For, while loops
