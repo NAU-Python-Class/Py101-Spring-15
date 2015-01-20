@@ -6,14 +6,14 @@
 
 ## Course Description
 
-The purpose of this course is showing how to program using Python Language. Throughout this 6-week course we will learn version control system's logic, how to use GitExtensions and GitHub to learn  how to be efficient developer, Python's built-in data types, Python's syntax, control structures, functions, modules, and classes. During the course period we will complete so many hand=on exercises together and weekly challenges. After completing this introductory Python course, you will be ready to go to next step to learn deeper concepts in Python Programming and it's packages, such as; pandas for Data science, Matplotlib for Matlab applications, pygame for game development, scipy for scientific applications, numpy for huge numerical applications, and more.    
+The purpose of this course is showing how to program using Python Language. Throughout this 6-week course we will learn version control system's logic, how to use GitExtensions and GitHub to learn  how to be efficient developer, Python's built-in data types, Python's syntax, control structures, functions, modules, and classes. During the course period we will complete so many hands-on exercises together and weekly challenges. After completing this introductory Python course, you will be ready to go to next step to learn deeper concepts in Python Programming and it's packages, such as;django for web development, pandas for Data science, Matplotlib for Matlab applications, pygame for game development, scipy for scientific applications, numpy for huge numerical applications, and more.    
 
 ---
 
 ## Course Content
 
 * Week 1: VCS, GitHub, GitExtensions, Intro to Python  
-* Week 2: Numeric data types, strings, comparison, If-Elif-else
+* Week 2: Numeric data types, strings, comparison
 * Week 3: Contol structures, comprehension 
 * Week 4: Lists, functions, list comprehension
 * Week 5: Dictionaries, Tuples, Sets, Modules
