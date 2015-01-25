@@ -26,8 +26,7 @@
       - Comparison
       - If-Elif-Else 
       - Iteration using For, while loops
-      - Comprehension
-      
+            
 ## Week 4 (25th && 27th Feb)
   - Data Types (Cont'd)
       - Lists
