@@ -1,6 +1,6 @@
 # Intro to Python Programming
 
-[Enes Kemal Ergin](www.linkedin.com/pub/enes-kemal-ergin/83/a38/601/)
+[Enes Kemal Ergin](https://github.com/eneskemalergin)
 
 ---
 
@@ -29,7 +29,7 @@ We will have weekly lectures in the class, including; me teaching,  comprehensiv
 
 ## Anonymity
 
-As part of this class you will be required to set up a [GitHub account](https://github.com). GitHub is a tool for collaborative code sharing and editing. During this course and other courses in the Specialization you will be submitting links to files you publicly place in your GitHub account as part of peer evaluation. If you are concerned about preserving your anonymity you should set up an anonymous GitHub account and be careful not to include any information you do not want made available to peer evaluators.
+As part of this class you will be required to set up a [GitHub account](https://github.com). GitHub is a tool for collaborative code sharing and editing. During this course you will be submitting links to files you publicly place in your GitHub account. If you are concerned about preserving your anonymity you should set up an anonymous GitHub account and be careful not to include any information you do not want made available to peer evaluators.
 
 
 ---
