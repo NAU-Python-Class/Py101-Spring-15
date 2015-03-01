@@ -331,7 +331,7 @@ print("Sum from 35 to 49 is", sum)
 It is pretty devastating, and think about it for more than 3. Let's try to write it in more usable way, using functions...
 ```Python
 # Defining a sum function
-def sum(n1. n2):
+def sum(n1, n2):
     result = 0 
     for i in range(n1, n2 + 1):
         result += i
